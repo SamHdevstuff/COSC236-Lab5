@@ -4,7 +4,7 @@ public class Book {
 	//comment to test new repository!
 	private String title;
 	private boolean isAvailable;
-	
+	//
 	public Book(String title) {
 		this.title = title;
 		this.isAvailable = true;
