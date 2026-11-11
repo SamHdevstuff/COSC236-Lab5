@@ -1,7 +1,7 @@
 package lab5;
 
 public class Book {
-	
+	//comment to test new repository
 	private String title;
 	private boolean isAvailable;
 	
